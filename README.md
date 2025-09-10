@@ -1,4 +1,5 @@
-#Itens de uma pizzaria/esfiharia
+#Itens de uma pizzaria/esfiharia. Cliete faz os pedidos e então ele tem a contagem do total de esfihas, levando a uma promoção.
+#Para o executar o arquivo em .sh basta colocar o "./" antes do nome do arquivo.(Exemplo: ./meu_primeiro_script.sh
 
 #Caso tenha 3 pizzas e um refrigerante, 10% de desconto/Caso tenha mais de 40 esfihas e um refrigerante, 10% de desconto
 
